@@ -2,3 +2,4 @@ data/
 auxin-cli
 *_secrets
 scrapyard/
+signal-cli
